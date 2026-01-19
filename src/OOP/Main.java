@@ -1,3 +1,4 @@
+package OOP;
 import java.util.Scanner;
 public class Main {
     // int x = 5;

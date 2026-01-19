@@ -1,3 +1,4 @@
+package OOP;
 public class Student {
 String name = "Ford";
 String Model = "AMG";
