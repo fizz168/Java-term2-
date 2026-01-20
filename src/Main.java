@@ -11,11 +11,18 @@ public class Main {
         Scanner scannerName = new Scanner(System.in);
 System.out.println("Enter your name :");
 String name = scannerName.nextLine();
-System.out.println("Enter your password : ");
-int pas = scannerName.nextInt();
 
-System.out.println("your pass is : " + pas);
+System.out.println("Enter your password : ");
+int password = scannerName.nextInt();
+
+System.out.println("Double digit please :");
+double digit = scannerName.nextDouble();
+
+
+System.out.println("your pass is : " + password);
 System.out.println("hello " + name);
+System.out.println("Your double digit is : " + digit);
+
 scannerName.close();
 
 
@@ -31,7 +38,7 @@ scannerName.close();
 
 
 // testing constructor 
-
+System.out.println("hello " + name);
         Student student = new Student("ford","amg",2005, 1005.00);    
         System.out.println(student.name);
     
