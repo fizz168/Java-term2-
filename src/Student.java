@@ -1,8 +1,8 @@
-package OOP;
-public class Student {
+
+class Student {
 String name = "Ford";
 String Model = "AMG";
-int year = 2005;
+int year = 2005;    
 double price = 1005.00;
 boolean isRunning = false;
 
