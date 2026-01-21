@@ -1,12 +1,12 @@
 
-class Student {
+class Student {     //this is class
 String name = "Ford";
 String Model = "AMG";
 int year = 2005;    
 double price = 1005.00;
 boolean isRunning = false;
 
-Student(String name, String model, int year, double price){
+Student(String name, String model, int year, double price){ //this is constructor 
     this.name = name;
     this.Model = model;
     this.year = year;
