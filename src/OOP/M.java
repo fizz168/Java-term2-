@@ -7,7 +7,8 @@ public class M { // this is main for the oop i ran out of idea for name
         // CoffeeShop n = new CoffeeShop(null, 0, 0); // default constructor should not be use
         // shop.ShowMenu();
         // s.ShowMenu();
-        shop.ShowMenu();
+        // shop.ShowMenu();
+        System.out.println(shop.priceCoffee);
     }
     
 }
