@@ -4,8 +4,8 @@ public class CoffeeShop { // class for CoffeShop
    String shopName;
    double priceCoffee;
    double priceTea;
-public CoffeeShop (String shopName, double priceCoffee, double priceTea){ //this is constructor 
-    this.shopName = shopName;
+public CoffeeShop ( double priceCoffee, double priceTea){ //this is constructor 
+   
     this.priceCoffee = priceCoffee;
     this.priceTea = priceTea;
 }
