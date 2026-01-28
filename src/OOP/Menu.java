@@ -1,10 +1,10 @@
 package OOP;
 
-public class CoffeeShop { // class for CoffeShop 
+public class Menu { // class for CoffeShop 
    String shopName;
    double priceCoffee;
    double priceTea;
-public CoffeeShop ( double priceCoffee, double priceTea){ //this is constructor 
+public Menu ( double priceCoffee, double priceTea){ //this is constructor 
    
     this.priceCoffee = priceCoffee;
     this.priceTea = priceTea;
