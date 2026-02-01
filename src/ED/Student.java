@@ -1,3 +1,4 @@
+package ED;
 
 class Student {     //this is class
 String name = "Ford";

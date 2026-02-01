@@ -1,3 +1,4 @@
+package ED;
 public class S {
     public static void main(String[] args) {
         int[] value = {1, 2, 3, 4};

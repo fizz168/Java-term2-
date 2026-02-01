@@ -1,3 +1,4 @@
+package ED;
 
 import java.util.Scanner;
 public class Main {
