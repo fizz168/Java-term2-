@@ -20,7 +20,8 @@ shop.addMenuItem("nigg", 1.5);
 shop.showMenu();
 
 //create order 
+Order order = new Order(5);
+order.getTotal();
 
     }
-    
 }
